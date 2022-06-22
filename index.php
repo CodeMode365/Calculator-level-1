@@ -12,7 +12,7 @@
             color:rgba(0, 128, 0, 0.76);
         }
         body{
-            background-color: rgba(113, 195, 113, 0.604);
+            background-color: rgb(0 0 0 / 60%);
         }
         .cal-body{
             background-color: red;
@@ -25,7 +25,7 @@
             display: grid;
             grid-template-columns:repeat(2,1fr);
             grid-template-rows:repeat(4,1fr);
-            background-color: rgba(0, 0, 0, 0.94);
+            background-color: rgb(235 197 197 / 94%);
             outline: 3px solid white;
             border-radius: 10px;
         }
